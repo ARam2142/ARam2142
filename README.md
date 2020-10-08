@@ -1,6 +1,6 @@
 # Andres Ramirez 🤓
 
-Hi there! and Welcome to my GitHub profile, check out all my cool stuff that I am building
+Hi there! and Welcome to my GitHub profile, check out my cool web apps
 
 LinkedIn: https://www.linkedin.com/in/andres-ramirez-8b07487b/
 
