@@ -1,4 +1,4 @@
-# Andres Ramirez | Full Stack Developer🚀 👨🏽‍💻
+# Andres Ramirez | Full Stack Web Developer🚀 👨🏽‍💻
 
 Hi there! and Welcome to my GitHub profile, check out my cool web apps. Stay tuned! there will be more to come
 
